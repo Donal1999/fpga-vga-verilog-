@@ -32,6 +32,8 @@ Briefly show how you changed the template code to display a different image. Dem
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+<img width="1077" height="613" alt="Screenshot 2025-12-02 151229" src="https://github.com/user-attachments/assets/a9b47e1f-2e36-4e7e-a5c7-38fc261c039d" />
+
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
