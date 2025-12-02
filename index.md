@@ -14,7 +14,8 @@ I am adding a test sentence here at 13:24 on 03/12/24.
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+<img width="994" height="588" alt="Screenshot 2025-12-02 145214" src="https://github.com/user-attachments/assets/c5732c02-cc86-43e6-981c-34f9531b7aba" />
+
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
@@ -30,6 +31,9 @@ Introduce your own design idea. Consider how complex/achievabble this might be o
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+<img width="1525" height="867" alt="Screenshot 2025-12-02 145036" src="https://github.com/user-attachments/assets/37457dca-6a14-489c-a9c7-14fd73d7f859" />
+
+
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 <img width="1077" height="613" alt="Screenshot 2025-12-02 151229" src="https://github.com/user-attachments/assets/a9b47e1f-2e36-4e7e-a5c7-38fc261c039d" />
