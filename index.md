@@ -4,19 +4,18 @@ Title: FPGA VGA Driver Project
 Tags: fpga vga verilog
 Autor: Dónal Ó Maoilchiaráin 
 ---
-This is a blog I wrote to document my VGA driver project for System on Chip Design and Verification. I programed an FPGA to display an image on a monitor
+This is a blog I wrote to document my VGA driver project for System on Chip Design and Verification. I programed an FPGA to display an image on a monitor. 
 
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
-The board I used for this project  was a  Xilinx Artix-7.  
+The board I used for this project  was a  Basys 3 with an Artix-7 FPGA. I used the Vivado IDE to develop the VGA driver using the hardware description language verilog. I followed a design flow to create the VGA driver. I was  
 
 <img width="994" height="588" alt="Screenshot 2025-12-02 145214" src="https://github.com/user-attachments/assets/c5732c02-cc86-43e6-981c-34f9531b7aba" />
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
-I was given two verilog code templates for this project. One was a static image of vertical stripes. Each one was a different colour. The second was template cycled through the 
+I was given two verilog code templates for this project. One was a static image of vertical stripes. Each one was a different colour. The second was template cycled through an 
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 ### **Synthesis**
