@@ -15,9 +15,13 @@ The board I used for this project  was a  Basys 3 with an Artix-7 FPGA. I used t
 
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
-I was given two verilog code templates for this project. One was a static image of vertical stripes. Each stripe was a different colour. The second template was dynamic.It cycled through a range of colours. The full screen was a  
+
+Writing the verilog code is the first step in the desgin flow. I was given two verilog code templates for this project. One was a static image of vertical stripes. Each stripe was a different colour. The second template was dynamic. It cycled through a range of colours. A colour would fill the screen for a cretain amount of time before moving onto the next colour.     
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+
+Simulation is the second step in the design flow. Simulation is a way of testing the verilog code before putting it on the FPGA. Vivado has a digital ol  
+
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
@@ -35,6 +39,9 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 <img width="1077" height="613" alt="Screenshot 2025-12-02 151229" src="https://github.com/user-attachments/assets/a9b47e1f-2e36-4e7e-a5c7-38fc261c039d" />
+
+<img width="1523" height="865" alt="Screenshot 2025-12-02 164103" src="https://github.com/user-attachments/assets/5f295265-2f2f-4d26-8919-7323f730c6d0" />
+
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
