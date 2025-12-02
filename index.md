@@ -1,9 +1,10 @@
 ---
-layout: home
-title: FPGA VGA Driver Project
-tags: fpga vga verilog
+Layout: home
+Title: FPGA VGA Driver Project
+Tags: fpga vga verilog
 Autor: Dónal Ó Maoilchiaráin 
 ---
+This is a blog I wrote to document my VGA driver project for System on Chip Design and Verification. 
 
 Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
 
