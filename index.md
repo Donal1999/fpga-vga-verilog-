@@ -20,10 +20,12 @@ Writing the verilog code is the first step in the desgin flow. I was given two v
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 
-Simulation is the second step in the design flow. Simulation is a way of testing the verilog code before putting it on the FPGA. Vivado has a digital ol  
+Simulation is the second step in the design flow. Simulation is a way of testing the verilog code before putting it on the FPGA. Vivado has a digital ollsicloscpoe to help 
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+
+
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
